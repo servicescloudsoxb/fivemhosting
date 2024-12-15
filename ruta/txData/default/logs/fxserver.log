@@ -1,0 +1,2130 @@
+
+================================================================
+======== FXServer Starting - 15/12/2024 4:38:25                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 76 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[                 cmd] No such command sv_enableNetworkedScriptEntityStates.
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-scripting-core] Creating script environments for cron
+[           resources] Started resource cron
+[    c-scripting-core] Creating script environments for es_extended
+[           resources] Started resource es_extended
+[           resources] Started resource esx_chat_theme
+[    c-scripting-core] Creating script environments for esx_context
+[           resources] Started resource esx_context
+[    c-scripting-core] Creating script environments for esx_identity
+[           resources] Started resource esx_identity
+[    c-scripting-core] Creating script environments for esx_loadingscreen
+[           resources] [97mStarted resource esx_loadingscreen
+[           resources] Started resource esx_menu_default
+[           resources] Started resource esx_menu_dialog
+[           resources] Started resource esx_menu_list
+[           resources] Started resource skinchanger
+[    c-scripting-core] Creating script environments for esx_skin
+[           resources] [0mStarted resource esx_skin
+[    c-scripting-core] Creating script environments for esx_multicharacter
+[           resources] Started resource esx_multicharacter
+[    c-scripting-core] Creating script environments for esx_notify
+[           resources] Started resource esx_notify
+[    c-scripting-core] Creating script environments for esx_progressbar
+[           resources] Started resource esx_progressbar
+[    c-scripting-core] Creating script environments for esx_textui
+[           resources] Started resource esx_textui
+[           resources] Started resource bob74_ipl
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[    c-scripting-core] Creating script environments for esx_datastore
+[           resources] Started resource esx_datastore
+[    c-scripting-core] Creating script environments for esx_accessories
+[           resources] Started resource esx_accessories
+[    c-scripting-core] Creating script environments for esx_addonaccount
+[           resources] Started resource esx_addonaccount
+[    c-scripting-core] [0mCreating script environments for esx_addoninventory
+[           resources] Started resource esx_addoninventory
+[    c-scripting-core] Creating script environments for esx_vehicleshop
+[           resources] Started resource esx_vehicleshop
+[    c-scripting-core] Creating script environments for esx_ambulancejob
+[           resources] Started resource esx_ambulancejob
+[           resources] Started resource esx_animations
+[    c-scripting-core] Creating script environments for esx_banking
+[           resources] Started resource esx_banking
+[    c-scripting-core] Creating script environments for esx_barbershop
+[           resources] Started resource esx_barbershop
+[    c-scripting-core] Creating script environments for esx_status
+[           resources] Started resource esx_status
+[    c-scripting-core] Creating script environments for esx_basicneeds
+[           resources] Started resource esx_basicneeds
+[    c-scripting-core] Creating script environments for esx_billing
+[           resources] Started resource esx_billing
+[    c-scripting-core] Creating script environments for esx_boat
+[           resources] Started resource esx_boat
+[    c-scripting-core] Creating script environments for esx_clotheshop
+[           resources] Started resource esx_clotheshop
+[           resources] Started resource esx_cruisecontrol
+[    c-scripting-core] Creating script environments for esx_license
+[           resources] Started resource esx_license
+[    c-scripting-core] Creating script environments for esx_dmvschool
+[           resources] [0mStarted resource esx_dmvschool
+[    c-scripting-core] Creating script environments for esx_drugs
+[           resources] Started resource esx_drugs
+[    c-scripting-core] Creating script environments for esx_garage
+[           resources] Started resource esx_garage
+[    c-scripting-core] Creating script environments for esx_hud
+[           resources] Started resource esx_hud
+[    c-scripting-core] Creating script environments for esx_joblisting
+[           resources] Started resource esx_joblisting
+[    c-scripting-core] Creating script environments for esx_jobs
+[           resources] Started resource esx_jobs
+[    c-scripting-core] Creating script environments for esx_lscustom
+[           resources] Started resource esx_lscustom
+[    c-scripting-core] Creating script environments for esx_society
+[           resources] [0mStarted resource esx_society
+[    c-scripting-core] Creating script environments for esx_mechanicjob
+[           resources] Started resource esx_mechanicjob
+[    c-scripting-core] Creating script environments for esx_optionalneeds
+[           resources] Started resource esx_optionalneeds
+[    c-scripting-core] Creating script environments for esx_policejob
+[           resources] Started resource esx_policejob
+[    c-scripting-core] Creating script environments for esx_property
+[           resources] Started resource esx_property
+[    c-scripting-core] Creating script environments for esx_rpchat
+[           resources] Started resource esx_rpchat
+[    c-scripting-core] Creating script environments for esx_service
+[           resources] Started resource esx_service
+[    c-scripting-core] Creating script environments for esx_shops
+[           resources] [0mStarted resource esx_shops
+[    c-scripting-core] Creating script environments for esx_taxijob
+[           resources] Started resource esx_taxijob
+[    c-scripting-core] Creating script environments for esx_weaponshop
+[           resources] Started resource esx_weaponshop
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[  script:es_extended] SCRIPT ERROR: @es_extended/server/main.lua:701: ESX Requires a minimum Artifact version of 10188, Please update your server.
+[  script:es_extended] > fn (@es_extended/server/main.lua:701)
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[  script:es_extended] [INFO] ESX Legacy 1.11.4 initialized!
+[script:esx_multichar] [INFO] Updated 1 columns to use VARCHAR(46)
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-j9lgkm.users.cfx.re/
+[      script:esx_hud] [INFO] esx_hud: You are using the latest version!
+[ script:esx_property] [INFO] Added Property into datastore_data table
+[      script:hardcap] Connecting: GluOz
+> setr "txAdmin-locale" "es"
+> set "txAdmin-localeFile" "F:\Archivos variados (JAIRO NO BORRAR)\web\FiveM\kapital\ruta\txData\locale.json"
+> setr "txAdmin-verbose" "false"
+> set "txAdmin-checkPlayerJoin" "true"
+> set "txAdmin-menuAlignRight" "false"
+> set "txAdmin-menuPageKey" "Tab"
+> set "txAdmin-hideDefaultAnnouncement" "false"
+> set "txAdmin-hideDefaultDirectMessage" "false"
+> set "txAdmin-hideDefaultWarning" "false"
+> set "txAdmin-hideDefaultScheduledRestartWarning" "false"
+> txaEvent "configChanged" "{}"
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> txaEvent "serverShuttingDown" "{＂delay＂:5000,＂author＂:＂GluOz＂,＂message＂:＂Reiniciando Servidor (requested by GluOz).＂}"
+[      script:monitor] [txAdmin] Server shutdown imminent. Kicking all players.
+
+================================================================
+======== FXServer Starting - 15/12/2024 4:41:33                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.[97m
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[38;5;73m[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (88.16.76.194:8081)
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 4:47:54                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl] [91m  cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 4:51:43                 
+================================================================
+[           resources] Scanning resources.
+[38;5;83m[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].[0m
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] [0mArgument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [0m[10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 4:53:14                 
+================================================================
+[           resources] Scanning resources.[0m
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] [93mCouldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] [93mCouldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (88.16.76.194:8081)
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:24:54                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[38;5;73m[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:26:23                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] [0mStarted resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] [0mCouldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[38;5;73m[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:28:48                 
+================================================================
+[38;5;83m[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[38;5;73m[ citizen-server-impl] Couldn't find resource category [minimapa].
+[38;5;73m[ citizen-server-impl] Couldn't find resource category [mapa].
+[38;5;171m[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] [93mCouldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:30:15                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[38;5;66m[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] [0mCreating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] [0mCouldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] [0mArgument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] [0mCouldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] [0mCouldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:31:12                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].[0m
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:34:15                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] [0mCouldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[38;5;73m[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[38;5;73m[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] [0mAuthenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:36:46                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] [0mCouldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[38;5;73m[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[38;5;73m[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] [0mCouldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:39:47                 
+================================================================
+[           resources] Scanning resources.
+[           resources] [0mFound 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] [0mStarted resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:40:50                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:42:24                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:44:20                 
+================================================================
+[           resources] Scanning resources.
+[38;5;83m[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] [0mCouldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established![97m
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:45:42                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] [93mCouldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:46:02                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] [0mCouldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[38;5;73m[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:46:57                 
+================================================================
+[           resources] Scanning resources.
+[           resources] [32mFound 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] [97mStarted resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+> hola
+[                 cmd] No such command hola.
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:49:47                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[38;5;73m[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] [0mCouldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] [0mAuthenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:52:33                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] [0mCouldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+> start menu1
+[ citizen-server-impl] Couldn't find resource menu1.
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:55:24                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 5:58:06                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[38;5;161m[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[38;5;161m[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 6:00:13                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.[97m
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] [97mStarted resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] [0mCouldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] [93mCouldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 6:01:37                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] [0mCreating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] [0mStarted resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[38;5;73m[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+
+================================================================
+======== FXServer Starting - 15/12/2024 6:04:17                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] [0mArgument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 6:07:33                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] [0mStarted resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] [0mCouldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (88.16.76.194:8081)
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 6:11:25                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] [0mCreating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (88.16.76.194:8081)
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 6:14:50                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] [97mCreating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[38;5;73m[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[38;5;73m[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] [0mCouldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[38;5;73m[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [10.4.32-MariaDB] [32mDatabase server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 6:15:42                 
+================================================================
+[           resources] Scanning resources.
+[38;5;83m[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] [93mCouldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-hipster
+[           resources] Started resource fivem-map-hipster
+[      script:oxmysql] [36m[10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl] [91m  cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 6:17:44                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] [93mCouldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[38;5;73m[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[38;5;73m[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (88.16.76.194:8081)
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 6:21:59                 
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[38;5;73m[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 6:24:41                 
+================================================================
+[           resources] Scanning resources.
+[           resources] [32mFound 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[38;5;161m[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 15/12/2024 6:25:15                 
+================================================================
+[           resources] Scanning resources.
+[           resources] [0mFound 75 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for sessionmanager
+[           resources] Started resource sessionmanager
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[ citizen-server-impl] Could not open myLogo.png for reading.
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[ citizen-server-impl] Couldn't find resource chat.
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for baseevents
+[           resources] Started resource baseevents
+[ citizen-server-impl] Couldn't find resource qb-core.
+[ citizen-server-impl] Couldn't find resource category [qb].
+[           resources] Started resource bob74_ipl
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[    c-resources-core] Resource 'pma-voice' can't run:
+[    c-resources-core]   1. onesync: OneSync needs to be enabled
+[ citizen-server-impl] Couldn't start resource pma-voice.
+[ citizen-server-impl] Couldn't find resource category [voice].
+[ citizen-server-impl] Couldn't find resource category [defaultmaps].
+[ citizen-server-impl] Couldn't find resource category [addons].
+[ citizen-server-impl] Couldn't find resource category [fivem].
+[ citizen-server-impl] Couldn't find resource category [motores].
+[ citizen-server-impl] Couldn't find resource category [coches].
+[ citizen-server-impl] Couldn't find resource category [garage].
+[38;5;73m[ citizen-server-impl] Couldn't find resource category [minimapa].
+[ citizen-server-impl] Couldn't find resource category [mapa].
+[                 cmd] Argument count mismatch (passed 2, wanted 1)
+[ citizen-server-impl] Couldn't find resource rpimotes.
+[ citizen-server-impl] Couldn't find resource chat.
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[ citizen-server-impl] Couldn't find resource category [ELS].
+[   script:mapmanager] Started map fivem-map-skater
+[           resources] Started resource fivem-map-skater
+[      script:oxmysql] [10.4.32-MariaDB] Database server connection established!
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://gluoz-glav6x.users.cfx.re/
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (88.16.76.194:8081)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Host is unreachable <- System.Net.Http.HttpRequestException: Host is unreachable (88.16.76.194:8081)
+[38;5;186m[ citizen-server-main] -> Quitting: SIGHUP received
